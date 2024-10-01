@@ -1,2 +1,2 @@
 # Dance-Heroes
-An AI dancing game that allow user to upload their own music and dance to it.
+An AI dancing game that allow users to upload their own music and dance to it.
